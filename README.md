@@ -17,7 +17,7 @@ Python 3.x installed on your machine.
 Pip package manager.
 Install Pygame
 
-### Installation
+## Installation
 
 Clone the repository:
 
@@ -25,12 +25,12 @@ git clone https://github.com/steventejeda/sorting-visualizer.git
 cd sorting-visualizer
 
 
-### Usage
+## Usage
 
 Run the application using the following command:
 python app.py
 
-### Controls
+## Controls
 
 I: Select Insertion Sort algorithm.
 
@@ -44,8 +44,14 @@ SPACE: Start the visualization
 
 R: Reset the bars being drawn.
 
+## Video Demo
 
-### How to Contribute
+
+https://github.com/steventejeda/sorting-visualizer/assets/20875417/1922ad67-3d4c-48e4-95b4-cedb3816473b
+
+
+
+## How to Contribute
 
 If you would like to contribute to this project, please follow these steps:
 
