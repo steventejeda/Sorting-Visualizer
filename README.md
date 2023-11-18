@@ -36,13 +36,13 @@ I: Select Insertion Sort algorithm.
 
 B: Select Bubble Sort algorithm.
 
-R: Reset the bars being drawn.
-
 A: Sort in ascending order.
 
 D: Sort in descending order.
 
 SPACE: Start the visualization
+
+R: Reset the bars being drawn.
 
 
 ### How to Contribute
