@@ -45,7 +45,7 @@ D: Sort in descending order.
 SPACE: Start the visualization
 
 
-How to Contribute
+### How to Contribute
 
 If you would like to contribute to this project, please follow these steps:
 
