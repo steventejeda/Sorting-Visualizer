@@ -1,24 +1,49 @@
-Sorting Algorithm Visualizer
+# Sorting Visualizer
 
-Overview
+Welcome to the Sorting Visualizer, a Python application built with pygame to provide an interactive and visual representation of the Bubble Sort and Insertion Sort algorithms. Users can customize the experience by choosing between the two sorting algorithms, resetting the bars being drawn, and selecting either ascending or descending order.
 
-This is a Sorting Algorithm Visualizer built in Python using the Pygame library. The visualizer currently supports two popular sorting algorithms: Bubble Sort and Insertion Sort. It provides a graphical representation of how these algorithms work by animating the sorting process.
+Visualization of Bubble Sort and Insertion Sort algorithms.
+Real-time animation of the sorting process.
+Customizable sorting algorithm selection (Bubble Sort or Insertion Sort).
+Option to reset the bars being drawn.
+Sorting order selection (ascending or descending).
+Simple and intuitive user interface.
 
-Features
+## Prerequisites
 
-Bubble Sort Visualization: Watch the step-by-step progression of the Bubble Sort algorithm in action. Visualize how elements "bubble up" to their correct positions.
-Insertion Sort Visualization: Witness the Insertion Sort algorithm in motion. See how elements are sequentially inserted into their proper places.
-User Interaction: Pause, resume, and reset the visualization at any point to observe specific steps or restart the sorting process.
-Customizable Array Size: Choose the size of the array to be sorted, allowing you to visualize the algorithms with different input sizes.
+Before you begin, ensure you have the following requirements:
 
-Prerequisites
+Python 3.x installed on your machine.
+Pip package manager.
+Install Pygame
 
-Before running the visualizer, make sure you have the following installed:
+### Installation
 
-Python 3.x: Download Python
-Pygame: Install Pygame using pip install pygame
+Clone the repository:
+
+git clone https://github.com/steventejeda/sorting-visualizer.git
+cd sorting-visualizer
 
 
-Usage - More info incoming!
+### Usage
 
-Video demo incoming!
+Run the application using the following command:
+python app.py
+
+### Controls
+
+I: Select Insertion Sort algorithm.
+B: Select Bubble Sort algorithm.
+R: Reset the bars being drawn.
+A: Sort in ascending order.
+D: Sort in descending order.
+SPACE: Start the visualization
+
+
+How to Contribute
+
+If you would like to contribute to this project, please follow these steps:
+
+Fork the project.
+Create a new branch for your feature or bug fix.
+Make your changes and submit a pull request.
