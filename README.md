@@ -48,13 +48,3 @@ R: Reset the bars being drawn.
 
 
 https://github.com/steventejeda/sorting-visualizer/assets/20875417/1922ad67-3d4c-48e4-95b4-cedb3816473b
-
-
-
-## How to Contribute
-
-If you would like to contribute to this project, please follow these steps:
-
-Fork the project.
-Create a new branch for your feature or bug fix.
-Make your changes and submit a pull request.
